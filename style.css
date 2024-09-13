@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#name{
+    color: cyan;
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+  }
+
+
+.main{
+    text-align: center;
+    color: #41ead4;
+    
+}
+
+#summary{
+    color: silver;
+}
+
+li{
+    color: silver;
+}
+#tap{
+    color: #3a7ca5;
+}
+
+#tap:hover {
+    color: cyan ;
+    font-weight: bold; 
+  }
+
+
+#center-link{
+    color: #3a7ca5;
+    display: block;
+    margin: 0 auto;
+}
+
+#center-link:hover {
+    color: cyan ;
+    font-weight: bold; 
+  }
+
+  footer{
+    text-align: center;
+  }
